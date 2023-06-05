@@ -18,6 +18,6 @@ listRef.insertAdjacentHTML('beforeend', createImgEl);
 
 let lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
-  captionDelay: 250,
+  captionDelay: 250, 
 });
  
